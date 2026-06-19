@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Deep tactical mesh center core transmitter -->
+    <path
+        android:fillColor="#FFFF6B00"
+        android:pathData="M54,54 m-10,0 a10,10 0 1,1 20,0 a10,10 0 1,1 -20,0" />
+
+    <!-- Concentration radio wave inner transmitter ring -->
+    <path
+        android:strokeColor="#FF05E777"
+        android:strokeWidth="3.5"
+        android:pathData="M54,54 m-24,0 a24,24 0 1,1 48,0 a24,24 0 1,1 -48,0"
+        android:strokeLineCap="round" />
+
+    <!-- Concentric radio wave outer broadcast ring -->
+    <path
+        android:strokeColor="#FFFF6B00"
+        android:strokeWidth="3.0"
+        android:pathData="M54,54 m-38,0 a38,38 0 1,1 76,0 a38,38 0 1,1 -76,0"
+        android:strokeLineCap="round" />
+
+    <!-- Strategic Node satellite link dots -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,24 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84,84 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84,24 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,84 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+
+</vector>

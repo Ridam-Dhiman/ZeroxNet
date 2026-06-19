@@ -1,0 +1,6 @@
+{
+  "name": "ZeroxNet",
+  "description": "Offline emergency mesh messaging app using Google's Nearby Connections API (Bluetooth + Wi-Fi Direct)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
